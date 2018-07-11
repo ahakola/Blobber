@@ -1,0 +1,11 @@
+## Interface: 40300
+## Author: Kelzu (Stormreaver EU)
+## Title: Blobber
+## Version: v1.2
+## Notes: Yells which Globule to kill on Yor'sahj the Unsleeping hardmode
+## SavedVariables: BlobberBool
+## Dependencies:
+## OptionalDeps: Ace3
+
+blobber.lua
+embeds.xml
